@@ -25,3 +25,5 @@ variable "subnet1-cidr" {
 variable "subent_az" {
     default =  "ap-south-1a"  
 }
+variable "AWS_ACCESS_KEY" {}
+variable "AWS_SECRET_KEY" {}
